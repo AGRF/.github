@@ -1,11 +1,5 @@
 ## Australian Genome Research Facility (AGRF)
 
-We believe in improving the quality of life through exceptional life sciences.
-
-Our mission is to empower Australia to be recognised for world-class innovation and leading edge genomics.
-
-By exchanging and collaborating in knowledge expertise, providing access to innovative and state-of-the-art genomic technologies we enable Australian researchers to advance leading edge genomics research internationally.
-
 The Australian Genome Research Facility (AGRF) has laboratories in Brisbane, Melbourne, Adelaide, Sydney and Perth, each providing a gateway to a national network of state-of-the-art facilities, technology and expertise. From microbes to plants, animals and humans, AGRF provides a full range of services across the entire biological spectrum. We provide services to academia and industry with clients from bioscience, environmental science, biomedicine and agricultural biotechnology.
 
 * Web: [agrf.org.au](https://www.agrf.org.au/)
