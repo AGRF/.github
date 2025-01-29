@@ -1,4 +1,4 @@
-## Australian Genome Research Facility Ltd (AGRF)
+## AGRF Ltd
 
 AGRF has laboratories in Brisbane, Melbourne, Adelaide, Sydney and Perth, each providing a gateway to a national network of state-of-the-art facilities, technology and expertise. From microbes to plants, animals and humans, AGRF provides a full range of services across the entire biological spectrum. We provide services to academia and industry with clients from bioscience, environmental science, biomedicine and agricultural biotechnology.
 
